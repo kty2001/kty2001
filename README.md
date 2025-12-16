@@ -2,7 +2,9 @@
 
 ---
 <div align=center>
-  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hogray)](https://solved.ac/hogray)
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hogray)](https://solved.ac/hogray)
+
 </div>
 
 **Interests:** `Computer Vision`, `Artificial Intelligence` <br>
