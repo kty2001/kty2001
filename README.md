@@ -1,6 +1,17 @@
 ## Tae-Yoon Kim
 
 ---
+<div align=center>
+  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hogray)](https://solved.ac/hogray)
+</div>
+
+**Interests:** `Computer Vision`, `Artificial Intelligence` <br>
+**Technical stack:** `PyTorch, TensorFlow, FastAPI`, `React, Electron`, `Python`, `C, C++, C#`
+
+
+
+
+
 
 
 <!--
