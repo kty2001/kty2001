@@ -35,6 +35,7 @@
 - **2024년도 산학협력 프로젝트 참여**<br>프로젝트 팀원, *2024.4 ~ 2024.9*
 
 ### Publications & Conferences
+- *Image-Based Quantification of Boundary Uncertainty for Reliable Soymilk Solid Content Measurement*<br>`JSAN(Journal of Sensor and Actuator Networks)` 등재
 - *Detection of Body Imbalance Using Deep Learning: Frontal Video Analysis of Coronal and Sagittal Planes Based on 2D and 3D Keypoints*<br>`한국인공지능학회` 학술대회 논문집 목록 등재 (2024)
 
 ### Certifications & Licenses
