@@ -40,6 +40,7 @@
 - *Detection of Body Imbalance Using Deep Learning: Frontal Video Analysis of Coronal and Sagittal Planes Based on 2D and 3D Keypoints*<br>`한국인공지능학회` 학술대회 논문집 목록 등재 (2024)
 
 ### Certifications & Licenses
+- `한국산업인력공단` 정보처리기사 (2026)
 - `NVIDIA` [Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=FFgyONZcQf6EyELTNL-XMw) 수료 (2024)
 - `NVIDIA` [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=jHVg9N4aRYiS1UGCl9KL5w) 수료 (2024)
 - `정보통신산업진흥원` AI 기술활용 수료 (2021)
