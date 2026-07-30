@@ -23,8 +23,9 @@
 ---
 
 ### Educations
-- 삼육대학교 학부연구생 근무 (2024.1 ~ )
+- 삼육대학교 학부연구생 Lab Manager (2024.01 ~ 2026.06)
 - 삼육대학교 인공지능융합학부 재학 (2020.02 ~ )
+  - GPA: 4.26
 
 ### Projects
 - **OCT 기반 치주 질환 예측 의료 서비스**<br>Pre-researcher, *2026.5 ~ 2026.6*
@@ -40,6 +41,7 @@
 - *Detection of Body Imbalance Using Deep Learning: Frontal Video Analysis of Coronal and Sagittal Planes Based on 2D and 3D Keypoints*<br>`한국인공지능학회` 학술대회 논문집 목록 등재 (2024)
 
 ### Certifications & Licenses
+- `프로그래머스` PCCP Lv.3 (2026)
 - `한국산업인력공단` 정보처리기사 (2026)
 - `NVIDIA` [Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=FFgyONZcQf6EyELTNL-XMw) 수료 (2024)
 - `NVIDIA` [Fundamentals of Deep Learning](https://learn.nvidia.com/certificates?id=jHVg9N4aRYiS1UGCl9KL5w) 수료 (2024)
