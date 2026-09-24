@@ -49,6 +49,7 @@
 - `정보통신산업진흥원` AI 기술활용 수료 (2021)
 
 ### Competitions & Awards
+- `고용노동부` KDT Hackathon **최우수상 (고용노동부 장관상)** (2026)
 - `goorm` SW 코딩 경시대회 **우수상** (2024)
 - `Dacon` [SW중심대학 디지털 경진대회 가짜 음성 분류](https://dacon.io/competitions/official/236253/overview/description) **17등/219팀**(7%) (2024)
 - `HYUNDAI MOBIS` 청소년 공학리더 자율주행자동차 경진대회 **우수상** (2018)
