@@ -5,7 +5,7 @@
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hogray)](https://solved.ac/hogray)
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch%20Lightning-792ee5?style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightning-792ee5?style=for-the-badge&logo=lightning&logoColor=white"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
